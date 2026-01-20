@@ -1,4 +1,4 @@
-Paragraf 1 - Latihan membuat file di dalam Github 
+Paragraf 1 - Latihan membuat file di dalam Github (dari branch-coba1)
 Paragraf 2 - Nambahin kalimat kedua di file Github
 Paragraf 3 - Ini di dalem branch-latihan
 Paragraf 4 - ini yg baris kedua di dlm branch-latihan
