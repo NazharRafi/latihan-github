@@ -1,2 +1,1 @@
 Paragraf 1 - Latihan membuat file di dalam Github 
-Paragraf 2 - Nambahin kalimat kedua di file Github
